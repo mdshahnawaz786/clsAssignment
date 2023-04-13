@@ -1,0 +1,28 @@
+
+.techCont{
+    height: 350px;
+    width: 1000px;
+    box-shadow: 0 0 10px black;
+    display: flex;
+    margin: 50px auto;
+}
+
+.leftPanel{
+    width: 30%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rightPanel{
+    width: 70%;
+    padding: 30px;
+}
+
+a{
+    color: white;
+}
+
